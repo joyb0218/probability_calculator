@@ -8,8 +8,8 @@ For this project, you will write a program to determine the approximate probabil
 
 First, create a Hat class in prob_calculator.py. The class should take a variable number of arguments that specify the number of balls of each color that are in the hat. For example, a class object could be created in any of these ways:
 
-hat1 = Hat(yellow=3, blue=2, green=6)
-hat2 = Hat(red=5, orange=4)
+hat1 = Hat(yellow=3, blue=2, green=6)\n
+hat2 = Hat(red=5, orange=4)\n
 hat3 = Hat(red=5, orange=4, black=1, blue=0, pink=2, striped=9)
 hat1 = Hat(yellow=3, blue=2, green=6)
 hat2 = Hat(red=5, orange=4)
