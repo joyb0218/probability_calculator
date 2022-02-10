@@ -14,11 +14,11 @@ hat2 = Hat(red=5, orange=4)
 
 hat3 = Hat(red=5, orange=4, black=1, blue=0, pink=2, striped=9)
 
-hat1 = Hat(yellow=3, blue=2, green=6)
+hat4 = Hat(yellow=3, blue=2, green=6)
 
-hat2 = Hat(red=5, orange=4)
+hat5 = Hat(red=5, orange=4)
 
-hat3 = Hat(red=5, orange=4, black=1, blue=0, pink=2, striped=9)
+hat6 = Hat(red=5, orange=4, black=1, blue=0, pink=2, striped=9)
 
 A hat will always be created with at least one ball. The arguments passed into the hat object upon creation should be converted to a contents instance variable. contents should be a list of strings containing one item for each ball in the hat. Each item in the list should be a color name representing a single ball of that color. For example, if your hat is {"red": 2, "blue": 1}, contents should be ["red", "red", "blue"].
 
